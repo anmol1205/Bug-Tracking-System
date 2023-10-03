@@ -4,12 +4,11 @@ Sharing some screenshots of the working:
 
 
 
-![Screenshot (59)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/44e4e059-69b6-454f-9d85-e928a05c19f9)
-![Screenshot (60)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/26bd58e2-3d2e-48f6-8c8f-077e6841975c)
-![Screenshot (61)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/3ab0f620-0715-4151-8acd-0e1b2e256f2c)
-![Screenshot (62)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/6a6cc292-9dd2-4459-a674-361211f515ac)
-![Screenshot (63)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/ae4f09c7-b09d-47b7-8080-dc8e1272fcc9)
-![Screenshot (64)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/77ee049b-4858-4180-85ea-8268afc062d8)
-![Screenshot (65)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/379c9fa6-7b63-46d4-b378-0368506c0cab)
-![Screenshot (66)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/6ed8d7d5-db57-4168-aa19-69a7bf4c660d)
-![Screenshot (67)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/14ae3cd2-88d7-4909-87fe-6f05b331450a)
+![Screenshot (68)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/f735ed17-c013-43f0-8e80-1c12190dc890)
+![Screenshot (69)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/d908f51f-7d6a-437c-ba20-07b2e60087d4)
+![Screenshot (70)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/6f6a4cfa-b053-4916-b140-7d5d81160899)
+![Screenshot (71)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/7e250e34-83f0-4a9a-a3b0-899e3cd35715)
+![Screenshot (72)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/5f63bf5d-5e70-4c2c-a0b4-b8a6e6a662a1)
+![Screenshot (73)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/065d18b9-fba9-47bd-b9b1-b6f7d4542199)
+![Screenshot (74)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/2695c10f-f660-481c-b253-b05dc291e6c7)
+![Screenshot (75)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/621ce9e5-f3ec-4731-85d3-12fbf2900f10)
