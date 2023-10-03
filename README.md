@@ -12,3 +12,4 @@ Sharing some screenshots of the working:
 ![Screenshot (64)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/77ee049b-4858-4180-85ea-8268afc062d8)
 ![Screenshot (65)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/379c9fa6-7b63-46d4-b378-0368506c0cab)
 ![Screenshot (66)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/6ed8d7d5-db57-4168-aa19-69a7bf4c660d)
+![Screenshot (67)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/14ae3cd2-88d7-4909-87fe-6f05b331450a)
