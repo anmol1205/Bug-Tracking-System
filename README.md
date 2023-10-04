@@ -3,12 +3,13 @@ A comprehensive solution for managing software bugs. It focuses mainly on tracki
 Sharing some screenshots of the working:
 
 
-
-![Screenshot (68)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/f735ed17-c013-43f0-8e80-1c12190dc890)
-![Screenshot (69)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/d908f51f-7d6a-437c-ba20-07b2e60087d4)
-![Screenshot (70)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/6f6a4cfa-b053-4916-b140-7d5d81160899)
-![Screenshot (71)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/7e250e34-83f0-4a9a-a3b0-899e3cd35715)
-![Screenshot (72)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/5f63bf5d-5e70-4c2c-a0b4-b8a6e6a662a1)
-![Screenshot (73)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/065d18b9-fba9-47bd-b9b1-b6f7d4542199)
-![Screenshot (74)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/2695c10f-f660-481c-b253-b05dc291e6c7)
-![Screenshot (75)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/621ce9e5-f3ec-4731-85d3-12fbf2900f10)
+![Screenshot (77)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/341d5266-6d86-4629-b6d5-cb075e192040)
+![Screenshot (78)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/88946822-da29-40b8-bae0-71fff566100c)
+![Screenshot (79)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/a0b70ac3-ac86-407a-9e2d-415bf18e4805)
+![Screenshot (80)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/2481febb-c3d7-41c4-bf0f-ee041762e1f9)
+![Screenshot (81)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/dfd7b5b2-7836-4fa5-bd0d-a6c3427ac6e8)
+![Screenshot (82)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/9ed38edc-c96d-43c0-9b78-5015203a0de3)
+![Screenshot (83)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/fd22a824-4d39-444f-a1ed-55fd325b8a5b)
+![Screenshot (84)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/80ddc40a-bd13-49a4-8ecf-82a4dd76062c)
+![Screenshot (85)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/238b363b-7050-4358-a862-e13ec603661d)
+![Screenshot (86)](https://github.com/anmol1205/Bug-Tracking-System/assets/91623229/6964cec6-96db-47e1-bac0-04076cf32436)
